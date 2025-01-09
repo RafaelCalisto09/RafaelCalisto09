@@ -7,7 +7,7 @@
   - LinkedIn: [Rafael Calisto](http://linkedin.com/in/rafael-calisto-937b6524)
   - GitHub: [RafaelCalisto09](https://github.com/RafaelCalisto09)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a double citizenship (Italian and Brazilian) and a diverse background in both quality engineering and software development!
+- ⚡ Fun fact: I have a double citizenship (Italian and Brazilian) and a diverse background in quality engineering!
 
 
 <!---
